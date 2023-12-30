@@ -1,3 +1,5 @@
+'use strict';
+
 function calcAverageCalories(days) {
    
     let amountOfTotalCalories = 0;
